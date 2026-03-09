@@ -1,19 +1,13 @@
 # 📊 Power BI Analyst Challenge - Financial Sample
 
 ## 📋 Descrição do Projeto
-Este repositório contém o desafio prático desenvolvido para o bootcamp de **Power BI Analyst** da [DIO](https://www.dio.me/). O objetivo foi criar um relatório dinâmico e interativo utilizando a base de dados `Financial Sample`, focando em boas práticas de UX (User Experience) e navegabilidade.
+Este repositório contém o desafio prático desenvolvido para o bootcamp de **Cientista de Dados com Python** da [DIO]([https://www.dio.me/](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)). O objetivo foi criar um relatório dinâmico e interativo utilizando a base de dados `Financial Sample`, focando em boas práticas de UX (User Experience) e navegabilidade.
 
 O projeto demonstra habilidades em:
 * **ETL & Power Query**: Limpeza e tratamento de dados brutos.
 * **Modelagem de Dados**: Criação de relacionamentos e tabelas de calendário.
 * **DAX**: Criação de medidas para análise de performance.
 * **Storytelling**: Visualizações claras e botões de navegação inteligentes.
-
----
-
-## 🖼️ Visual do Dashboard
-![Capa do Relatório](<img width="1330" height="768" alt="image" src="https://github.com/user-attachments/assets/10377487-e0bd-4918-b5cb-e7b5d9986a13" />)
-*Página 1: Visão Executiva de Vendas e Lucros.*
 
 ---
 
