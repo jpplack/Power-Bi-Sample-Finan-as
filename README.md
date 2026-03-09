@@ -41,7 +41,7 @@ O projeto demonstra habilidades em:
 **Pedro Putinatti**
 * Estudante de Ciência da Computação (UNIP)
 * Focado em DevOps e Engenharia de Dados.
-* [LinkedIn](https://www.linkedin.com/in/pedroputinatti/) | [GitHub]([SEU_LINK_GITHUB](https://github.com/jpplack))
+* [LinkedIn](https://www.linkedin.com/in/pedroputinatti/) | [GitHub](https://github.com/jpplack)
 
 ---
 *Projeto baseado no repositório base de [Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst).*
